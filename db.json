@@ -33,7 +33,7 @@
             "time": "12:00"
         },
         {
-            "id": 1,
+            "id": 3,
             "category": 2,
             "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
             "title": "Copa del Rey",
@@ -42,7 +42,7 @@
             "time": "12:00"
         },
         {
-            "id": 2,
+            "id": 4,
             "category": 2,
             "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
             "title": "FA Cup",
@@ -51,7 +51,7 @@
             "time": "12:00"
         },
         {
-            "id": 1,
+            "id": 5,
             "category": 3,
             "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
             "title": "La Liga",
@@ -60,7 +60,7 @@
             "time": "12:00"
         },
         {
-            "id": 2,
+            "id": 6,
             "category": 3,
             "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
             "title": "FA Cup",
@@ -71,7 +71,7 @@
     ],
     "news": [
         {
-            "id": 3,
+            "id": 1,
             "category": 2,
             "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
             "title": "Barcelona lost again against Granada",
@@ -80,7 +80,7 @@
             "time": "12:00"
         },
         {
-            "id": 4,
+            "id": 2,
             "category": 2,
             "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
             "title": "Real Madrid won against Barcelona",
@@ -89,7 +89,7 @@
             "time": "12:00"
         },
         {
-            "id": 5,
+            "id": 3,
             "category": 2,
             "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
             "title": "This is another news article",
