@@ -13,68 +13,62 @@
             "name": "Leagues"
         }
     ],
-    "hits": {
-        "1": [
-            {
-                "id": 1,
-                "category": 1,
-                "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
-                "title": "Barcelona",
-                "description": "See all Barcelona details",
-                "date": "April 28, 2021",
-                "time": "12:00"
-            },
-            {
-                "id": 2,
-                "category": 1,
-                "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
-                "title": "Valencia",
-                "description": "See all Valencia details",
-                "date": "April 28, 2021",
-                "time": "12:00"
-            }
-        ],
-        "2": [
-            {
-                "id": 1,
-                "category": 1,
-                "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
-                "title": "Copa del Rey",
-                "description": "See all Copa del Rey details",
-                "date": "April 28, 2021",
-                "time": "12:00"
-            },
-            {
-                "id": 2,
-                "category": 1,
-                "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
-                "title": "FA Cup",
-                "description": "See all FA Cup details",
-                "date": "April 28, 2021",
-                "time": "12:00"
-            }
-        ],
-        "3": [
-            {
-                "id": 1,
-                "category": 1,
-                "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
-                "title": "La Liga",
-                "description": "See all La Liga details",
-                "date": "April 28, 2021",
-                "time": "12:00"
-            },
-            {
-                "id": 2,
-                "category": 1,
-                "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
-                "title": "FA Cup",
-                "description": "See all Premier League details",
-                "date": "April 28, 2021",
-                "time": "12:00"
-            }
-        ]
-    },
+    "hits": [
+        {
+            "id": 1,
+            "category": 1,
+            "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
+            "title": "Barcelona",
+            "description": "See all Barcelona details",
+            "date": "April 28, 2021",
+            "time": "12:00"
+        },
+        {
+            "id": 2,
+            "category": 1,
+            "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
+            "title": "Valencia",
+            "description": "See all Valencia details",
+            "date": "April 28, 2021",
+            "time": "12:00"
+        },
+        {
+            "id": 1,
+            "category": 2,
+            "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
+            "title": "Copa del Rey",
+            "description": "See all Copa del Rey details",
+            "date": "April 28, 2021",
+            "time": "12:00"
+        },
+        {
+            "id": 2,
+            "category": 2,
+            "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
+            "title": "FA Cup",
+            "description": "See all FA Cup details",
+            "date": "April 28, 2021",
+            "time": "12:00"
+        },
+        {
+            "id": 1,
+            "category": 3,
+            "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
+            "title": "La Liga",
+            "description": "See all La Liga details",
+            "date": "April 28, 2021",
+            "time": "12:00"
+        },
+        {
+            "id": 2,
+            "category": 3,
+            "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
+            "title": "FA Cup",
+            "description": "See all Premier League details",
+            "date": "April 28, 2021",
+            "time": "12:00"
+        }
+    ],
     "news": [
         {
             "id": 3,
