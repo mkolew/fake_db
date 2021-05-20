@@ -72,7 +72,7 @@
     "news": [
         {
             "id": 1,
-            "categoryId": 2,
+            "connections": [1, 5],
             "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
             "title": "Barcelona lost again against Granada",
             "description": "It is pity but Barcelona lost again against the outsiders Granada. Lorem ipsum dolor amet sit, lorem ipsum dolor amet sit.",
@@ -81,16 +81,16 @@
         },
         {
             "id": 2,
-            "categoryId": 2,
+            "connections": [2, 5],
             "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
-            "title": "Real Madrid won against Barcelona",
+            "title": "Valencia won against Barcelona",
             "description": "This is just a fake news for a testing purposes. Lorem ipsum dolor amet sit, lorem ipsum dolor amet sit.",
             "date": "May 28, 2021",
             "time": "12:00"
         },
         {
             "id": 3,
-            "categoryId": 2,
+            "connections": [4],
             "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
             "title": "This is another news article",
             "description": "This is another news article for testing purposes. Lorem ipsum dolor amet sit, lorem ipsum dolor amet sit.",
