@@ -1,22 +1,22 @@
 {
     "categories": [
         {
-            "id": 1,
+            "id": "Teams",
             "title": "Teams"
         },
         {
-            "id": 2,
+            "id": "Cups",
             "title": "Cups"
         },
         {
-            "id": 2,
+            "id": "Leagues",
             "title": "Leagues"
         }
     ],
     "hits": [
         {
-            "id": 1,
-            "categoryId": 1,
+            "id": "Barcelona",
+            "categoryId": "Teams",
             "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
             "title": "Barcelona",
             "description": "See all Barcelona details",
@@ -24,8 +24,8 @@
             "time": "12:00"
         },
         {
-            "id": 2,
-            "categoryId": 1,
+            "id": "Valencia",
+            "categoryId": "Teams",
             "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
             "title": "Valencia",
             "description": "See all Valencia details",
@@ -33,8 +33,8 @@
             "time": "12:00"
         },
         {
-            "id": 3,
-            "categoryId": 2,
+            "id": "Copa-Del-Rey",
+            "categoryId": "Cups",
             "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
             "title": "Copa del Rey",
             "description": "See all Copa del Rey details",
@@ -42,8 +42,8 @@
             "time": "12:00"
         },
         {
-            "id": 4,
-            "categoryId": 2,
+            "id": "FA-Cup",
+            "categoryId": "Cups",
             "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
             "title": "FA Cup",
             "description": "See all FA Cup details",
@@ -51,8 +51,8 @@
             "time": "12:00"
         },
         {
-            "id": 5,
-            "categoryId": 3,
+            "id": "LA-Liga",
+            "categoryId": "Leagues",
             "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
             "title": "La Liga",
             "description": "See all La Liga details",
@@ -60,20 +60,20 @@
             "time": "12:00"
         },
         {
-            "id": 6,
-            "categoryId": 3,
+            "id": "Premier-League",
+            "categoryId": "Leagues",
             "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
-            "title": "FA Cup",
+            "title": "Premier League",
             "description": "See all Premier League details",
             "date": "April 28, 2021",
             "time": "12:00"
         }
     ],
     "results": {
-        "1": [
+        "Teams": [
             {
-                "id": 1,
-                "categoryId": 1,
+                "id": "Barcelona",
+                "categoryId": "Teams",
                 "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
                 "title": "Barcelona",
                 "description": "See all Barcelona details",
@@ -81,8 +81,8 @@
                 "time": "12:00"
             },
             {
-                "id": 2,
-                "categoryId": 1,
+                "id": "Valencia",
+                "categoryId": "Teams",
                 "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
                 "title": "Valencia",
                 "description": "See all Valencia details",
@@ -90,10 +90,10 @@
                 "time": "12:00"
             }
         ],
-        "2": [
+        "Cups": [
             {
-                "id": 3,
-                "categoryId": 2,
+                "id": "Copa-Del-Rey",
+                "categoryId": "Cups",
                 "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
                 "title": "Copa del Rey",
                 "description": "See all Copa del Rey details",
@@ -101,8 +101,8 @@
                 "time": "12:00"
             },
             {
-                "id": 4,
-                "categoryId": 2,
+                "id": "FA-Cup",
+                "categoryId": "Cups",
                 "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
                 "title": "FA Cup",
                 "description": "See all FA Cup details",
@@ -110,10 +110,10 @@
                 "time": "12:00"
             }
         ],
-        "3": [
+        "Leagues": [
             {
-                "id": 5,
-                "categoryId": 3,
+                "id": "LA-Liga",
+                "categoryId": "Leagues",
                 "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
                 "title": "La Liga",
                 "description": "See all La Liga details",
@@ -121,10 +121,10 @@
                 "time": "12:00"
             },
             {
-                "id": 6,
-                "categoryId": 3,
+                "id": "Premier-League",
+                "categoryId": "Leagues",
                 "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
-                "title": "FA Cup",
+                "title": "Premier League",
                 "description": "See all Premier League details",
                 "date": "April 28, 2021",
                 "time": "12:00"
@@ -134,7 +134,7 @@
     "news": [
         {
             "id": 1,
-            "connections": [1, 5],
+            "connections": ["Barcelona", "LA-Liga"],
             "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
             "title": "Barcelona lost again against Granada",
             "description": "It is pity but Barcelona lost again against the outsiders Granada. Lorem ipsum dolor amet sit, lorem ipsum dolor amet sit.",
@@ -143,7 +143,7 @@
         },
         {
             "id": 2,
-            "connections": [2, 5],
+            "connections": ["Barcelona", "Valencia", "LA-Liga"],
             "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
             "title": "Valencia won against Barcelona",
             "description": "This is just a fake news for a testing purposes. Lorem ipsum dolor amet sit, lorem ipsum dolor amet sit.",
@@ -152,7 +152,7 @@
         },
         {
             "id": 3,
-            "connections": [4],
+            "connections": ["FA-Cup"],
             "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
             "title": "This is another news article",
             "description": "This is another news article for testing purposes. Lorem ipsum dolor amet sit, lorem ipsum dolor amet sit.",
