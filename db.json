@@ -2,15 +2,15 @@
     "categories": [
         {
             "id": 1,
-            "name": "Teams"
+            "title": "Teams"
         },
         {
             "id": 2,
-            "name": "Cups"
+            "title": "Cups"
         },
         {
             "id": 2,
-            "name": "Leagues"
+            "title": "Leagues"
         }
     ],
     "hits": [
