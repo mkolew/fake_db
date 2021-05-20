@@ -16,7 +16,7 @@
     "hits": [
         {
             "id": 1,
-            "category": 1,
+            "categoryId": 1,
             "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
             "title": "Barcelona",
             "description": "See all Barcelona details",
@@ -25,7 +25,7 @@
         },
         {
             "id": 2,
-            "category": 1,
+            "categoryId": 1,
             "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
             "title": "Valencia",
             "description": "See all Valencia details",
@@ -34,7 +34,7 @@
         },
         {
             "id": 3,
-            "category": 2,
+            "categoryId": 2,
             "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
             "title": "Copa del Rey",
             "description": "See all Copa del Rey details",
@@ -43,7 +43,7 @@
         },
         {
             "id": 4,
-            "category": 2,
+            "categoryId": 2,
             "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
             "title": "FA Cup",
             "description": "See all FA Cup details",
@@ -52,7 +52,7 @@
         },
         {
             "id": 5,
-            "category": 3,
+            "categoryId": 3,
             "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
             "title": "La Liga",
             "description": "See all La Liga details",
@@ -61,7 +61,7 @@
         },
         {
             "id": 6,
-            "category": 3,
+            "categoryId": 3,
             "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
             "title": "FA Cup",
             "description": "See all Premier League details",
@@ -72,7 +72,7 @@
     "news": [
         {
             "id": 1,
-            "category": 2,
+            "categoryId": 2,
             "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
             "title": "Barcelona lost again against Granada",
             "description": "It is pity but Barcelona lost again against the outsiders Granada. Lorem ipsum dolor amet sit, lorem ipsum dolor amet sit.",
@@ -81,7 +81,7 @@
         },
         {
             "id": 2,
-            "category": 2,
+            "categoryId": 2,
             "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
             "title": "Real Madrid won against Barcelona",
             "description": "This is just a fake news for a testing purposes. Lorem ipsum dolor amet sit, lorem ipsum dolor amet sit.",
@@ -90,7 +90,7 @@
         },
         {
             "id": 3,
-            "category": 2,
+            "categoryId": 2,
             "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
             "title": "This is another news article",
             "description": "This is another news article for testing purposes. Lorem ipsum dolor amet sit, lorem ipsum dolor amet sit.",
