@@ -1,18 +1,15 @@
 {
-    "categories": [
-        {
-            "id": "Teams",
+    "categories": {
+        "Teams": {
             "title": "Teams"
         },
-        {
-            "id": "Cups",
+        "Cups": {
             "title": "Cups"
         },
-        {
-            "id": "Leagues",
+        "Leagues": {
             "title": "Leagues"
         }
-    ],
+    },
     "hits": [
         {
             "id": "Barcelona",
