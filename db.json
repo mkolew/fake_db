@@ -69,7 +69,7 @@
     "results": {
         "Teams": {
             "total": 15,
-            "loaded": 3,
+            "loaded": 2,
             "items": [
                 {
                     "id": "Barcelona",
@@ -88,21 +88,12 @@
                     "description": "See all Valencia details",
                     "date": "April 28, 2021",
                     "time": "12:00"
-                },
-                {
-                    "id": "Manchester-United",
-                    "categoryId": "Teams",
-                    "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
-                    "title": "Manchester United",
-                    "description": "See all Manchester United details",
-                    "date": "April 28, 2021",
-                    "time": "12:00"
                 }
             ]
         },
         "Cups": {
             "total": 13,
-            "loaded": 3,
+            "loaded": 2,
             "items": [
                 {
                     "id": "Copa-Del-Rey",
@@ -121,21 +112,12 @@
                     "description": "See all FA Cup details",
                     "date": "April 28, 2021",
                     "time": "12:00"
-                },
-                {
-                    "id": "Supercopa-Espanja",
-                    "categoryId": "Cups",
-                    "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
-                    "title": "Supercopa de España",
-                    "description": "See all FA Cup details",
-                    "date": "April 28, 2021",
-                    "time": "12:00"
                 }
             ]
         },
         "Leagues": {
             "total": 25,
-            "loaded": 3,
+            "loaded": 2,
             "items": [
                 {
                     "id": "LA-Liga",
@@ -154,22 +136,13 @@
                     "description": "See all Premier League details",
                     "date": "April 28, 2021",
                     "time": "12:00"
-                },
-                {
-                    "id": "Serie-A",
-                    "categoryId": "Leagues",
-                    "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
-                    "title": "Serie A",
-                    "description": "See all Serie A details",
-                    "date": "April 28, 2021",
-                    "time": "12:00"
                 }
             ]
         }
     },
     "news": {
         "total": 10,
-        "loaded": 3,
+        "loaded": 2,
         "items": [
             {
                 "id": 1,
@@ -194,18 +167,6 @@
                 "title": "Valencia won against Barcelona",
                 "description": "This is just a fake news for a testing purposes. Lorem ipsum dolor amet sit, lorem ipsum dolor amet sit.",
                 "date": "May 28, 2021",
-                "time": "12:00"
-            },
-            {
-                "id": 3,
-                "connections": [
-                    "Manchester-United",
-                    "FA-Cup"
-                ],
-                "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
-                "title": "This is another news article",
-                "description": "This is another news article for testing purposes. Lorem ipsum dolor amet sit, lorem ipsum dolor amet sit.",
-                "date": "May 22, 2021",
                 "time": "12:00"
             }
         ]
