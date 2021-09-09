@@ -73,6 +73,7 @@
             "items": [
                 {
                     "id": "Barcelona",
+                    "categoryId": "Teams",
                     "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
                     "title": "Barcelona",
                     "description": "See all Barcelona details",
@@ -81,6 +82,7 @@
                 },
                 {
                     "id": "Valencia",
+                    "categoryId": "Teams",
                     "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
                     "title": "Valencia",
                     "description": "See all Valencia details",
@@ -95,6 +97,7 @@
             "items": [
                 {
                     "id": "Copa-Del-Rey",
+                    "categoryId": "Cups",
                     "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
                     "title": "Copa del Rey",
                     "description": "See all Copa del Rey details",
@@ -103,6 +106,7 @@
                 },
                 {
                     "id": "FA-Cup",
+                    "categoryId": "Cups",
                     "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
                     "title": "FA Cup",
                     "description": "See all FA Cup details",
@@ -117,6 +121,7 @@
             "items": [
                 {
                     "id": "LA-Liga",
+                    "categoryId": "Leagues",
                     "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
                     "title": "La Liga",
                     "description": "See all La Liga details",
@@ -125,6 +130,7 @@
                 },
                 {
                     "id": "Premier-League",
+                    "categoryId": "Leagues",
                     "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
                     "title": "Premier League",
                     "description": "See all Premier League details",
