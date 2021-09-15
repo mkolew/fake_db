@@ -235,15 +235,6 @@
                     "description": "See all Premier League details",
                     "date": "April 28, 2021",
                     "time": "12:00"
-                },
-                {
-                    "id": "Macedonian-First-League",
-                    "categoryId": "Leagues",
-                    "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
-                    "title": "Macedonian First League",
-                    "description": "See all Macedonian First League details",
-                    "date": "April 28, 2021",
-                    "time": "12:00"
                 }
             ]
         }
@@ -281,18 +272,6 @@
             },
             {
                 "id": 3,
-                "connections": [
-                    "Macedonian-First-League"
-                ],
-                "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
-                "title": "Vardar is back to the Macedonian First League",
-                "description": "This is just a fake news for a testing purposes. Lorem ipsum dolor amet sit, lorem ipsum dolor amet sit.",
-                "date": "May 28, 2021",
-                "time": "12:00",
-                "link": "https://google.com"
-            },
-            {
-                "id": 4,
                 "connections": [
                     "Champions-League",
                     "Premier-League"
