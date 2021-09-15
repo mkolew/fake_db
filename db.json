@@ -104,7 +104,7 @@
     ],
     "results": {
         "Teams": {
-            "total": 15,
+            "total": 5,
             "loaded": 2,
             "items": [
                 {
@@ -155,7 +155,7 @@
             ]
         },
         "Cups": {
-            "total": 13,
+            "total": 3,
             "loaded": 2,
             "items": [
                 {
@@ -188,7 +188,7 @@
             ]
         },
         "Leagues": {
-            "total": 25,
+            "total": 2,
             "loaded": 2,
             "items": [
                 {
@@ -213,7 +213,7 @@
         }
     },
     "news": {
-        "total": 10,
+        "total": 3,
         "loaded": 2,
         "items": [
             {
