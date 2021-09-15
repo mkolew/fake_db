@@ -30,6 +30,33 @@
             "time": "12:00"
         },
         {
+            "id": "Lazio",
+            "categoryId": "Teams",
+            "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
+            "title": "Lazio",
+            "description": "See all Lazio details",
+            "date": "April 28, 2021",
+            "time": "12:00"
+        },
+        {
+            "id": "Liverpool",
+            "categoryId": "Teams",
+            "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
+            "title": "Liverpool",
+            "description": "See all Liverpool details",
+            "date": "April 28, 2021",
+            "time": "12:00"
+        },
+        {
+            "id": "Vardar",
+            "categoryId": "Teams",
+            "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
+            "title": "Vardar",
+            "description": "See all Vardar details",
+            "date": "April 28, 2021",
+            "time": "12:00"
+        },
+        {
             "id": "Copa-Del-Rey",
             "categoryId": "Cups",
             "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
@@ -48,6 +75,24 @@
             "time": "12:00"
         },
         {
+            "id": "Champions-League",
+            "categoryId": "Cups",
+            "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
+            "title": "Champions League",
+            "description": "See all Champions League details",
+            "date": "April 28, 2021",
+            "time": "12:00"
+        },
+        {
+            "id": "Europa-League",
+            "categoryId": "Cups",
+            "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
+            "title": "Europa League",
+            "description": "See all Europa League details",
+            "date": "April 28, 2021",
+            "time": "12:00"
+        },
+        {
             "id": "LA-Liga",
             "categoryId": "Leagues",
             "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
@@ -62,6 +107,15 @@
             "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
             "title": "Premier League",
             "description": "See all Premier League details",
+            "date": "April 28, 2021",
+            "time": "12:00"
+        },
+        {
+            "id": "Macedonian-First-League",
+            "categoryId": "Leagues",
+            "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
+            "title": "Macedonian First League",
+            "description": "See all Macedonian First League details",
             "date": "April 28, 2021",
             "time": "12:00"
         }
@@ -88,6 +142,33 @@
                     "description": "See all Valencia details",
                     "date": "April 28, 2021",
                     "time": "12:00"
+                },
+                {
+                    "id": "Lazio",
+                    "categoryId": "Teams",
+                    "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
+                    "title": "Lazio",
+                    "description": "See all Lazio details",
+                    "date": "April 28, 2021",
+                    "time": "12:00"
+                },
+                {
+                    "id": "Liverpool",
+                    "categoryId": "Teams",
+                    "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
+                    "title": "Liverpool",
+                    "description": "See all Liverpool details",
+                    "date": "April 28, 2021",
+                    "time": "12:00"
+                },
+                {
+                    "id": "Vardar",
+                    "categoryId": "Teams",
+                    "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
+                    "title": "Vardar",
+                    "description": "See all Vardar details",
+                    "date": "April 28, 2021",
+                    "time": "12:00"
                 }
             ]
         },
@@ -112,6 +193,24 @@
                     "description": "See all FA Cup details",
                     "date": "April 28, 2021",
                     "time": "12:00"
+                },
+                {
+                    "id": "Champions-League",
+                    "categoryId": "Cups",
+                    "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
+                    "title": "Champions League",
+                    "description": "See all Champions League details",
+                    "date": "April 28, 2021",
+                    "time": "12:00"
+                },
+                {
+                    "id": "Europa-League",
+                    "categoryId": "Cups",
+                    "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
+                    "title": "Europa League",
+                    "description": "See all Europa League details",
+                    "date": "April 28, 2021",
+                    "time": "12:00"
                 }
             ]
         },
@@ -134,6 +233,15 @@
                     "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
                     "title": "Premier League",
                     "description": "See all Premier League details",
+                    "date": "April 28, 2021",
+                    "time": "12:00"
+                },
+                {
+                    "id": "Macedonian-First-League",
+                    "categoryId": "Leagues",
+                    "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
+                    "title": "Macedonian First League",
+                    "description": "See all Macedonian First League details",
                     "date": "April 28, 2021",
                     "time": "12:00"
                 }
@@ -166,6 +274,31 @@
                 ],
                 "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
                 "title": "Valencia won against Barcelona",
+                "description": "This is just a fake news for a testing purposes. Lorem ipsum dolor amet sit, lorem ipsum dolor amet sit.",
+                "date": "May 28, 2021",
+                "time": "12:00",
+                "link": "https://google.com"
+            },
+            {
+                "id": 3,
+                "connections": [
+                    "Macedonian-First-League"
+                ],
+                "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
+                "title": "Vardar is back to the Macedonian First League",
+                "description": "This is just a fake news for a testing purposes. Lorem ipsum dolor amet sit, lorem ipsum dolor amet sit.",
+                "date": "May 28, 2021",
+                "time": "12:00",
+                "link": "https://google.com"
+            },
+            {
+                "id": 4,
+                "connections": [
+                    "Champions-League",
+                    "Premier-League"
+                ],
+                "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
+                "title": "Liverpool plays against Milan today in the Champions League",
                 "description": "This is just a fake news for a testing purposes. Lorem ipsum dolor amet sit, lorem ipsum dolor amet sit.",
                 "date": "May 28, 2021",
                 "time": "12:00",
