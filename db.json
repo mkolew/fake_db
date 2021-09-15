@@ -93,8 +93,9 @@
             "time": "12:00"
         }
     ],
-    "results": {
-        "Teams": {
+    "results": [
+        {
+            "id": "Teams",
             "total": 5,
             "loaded": 2,
             "items": [
@@ -145,7 +146,8 @@
                 }
             ]
         },
-        "Cups": {
+        {
+            "id": "Cups",
             "total": 3,
             "loaded": 2,
             "items": [
@@ -169,7 +171,8 @@
                 }
             ]
         },
-        "Leagues": {
+        {
+            "id": "Leagues",
             "total": 2,
             "loaded": 2,
             "items": [
@@ -193,7 +196,7 @@
                 }
             ]
         }
-    },
+    ],
     "news": {
         "total": 3,
         "loaded": 2,
