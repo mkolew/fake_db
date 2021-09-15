@@ -75,15 +75,6 @@
             "time": "12:00"
         },
         {
-            "id": "Champions-League",
-            "categoryId": "Cups",
-            "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
-            "title": "Champions League",
-            "description": "See all Champions League details",
-            "date": "April 28, 2021",
-            "time": "12:00"
-        },
-        {
             "id": "LA-Liga",
             "categoryId": "Leagues",
             "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
@@ -175,15 +166,6 @@
                     "description": "See all FA Cup details",
                     "date": "April 28, 2021",
                     "time": "12:00"
-                },
-                {
-                    "id": "Champions-League",
-                    "categoryId": "Cups",
-                    "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
-                    "title": "Champions League",
-                    "description": "See all Champions League details",
-                    "date": "April 28, 2021",
-                    "time": "12:00"
                 }
             ]
         },
@@ -246,6 +228,7 @@
             {
                 "id": 3,
                 "connections": [
+                    "Liverpool",
                     "Champions-League",
                     "Premier-League"
                 ],
