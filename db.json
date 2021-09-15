@@ -84,15 +84,6 @@
             "time": "12:00"
         },
         {
-            "id": "Europa-League",
-            "categoryId": "Cups",
-            "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
-            "title": "Europa League",
-            "description": "See all Europa League details",
-            "date": "April 28, 2021",
-            "time": "12:00"
-        },
-        {
             "id": "LA-Liga",
             "categoryId": "Leagues",
             "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
@@ -107,15 +98,6 @@
             "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
             "title": "Premier League",
             "description": "See all Premier League details",
-            "date": "April 28, 2021",
-            "time": "12:00"
-        },
-        {
-            "id": "Macedonian-First-League",
-            "categoryId": "Leagues",
-            "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
-            "title": "Macedonian First League",
-            "description": "See all Macedonian First League details",
             "date": "April 28, 2021",
             "time": "12:00"
         }
