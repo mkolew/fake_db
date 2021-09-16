@@ -10,7 +10,7 @@
             "title": "Leagues"
         }
     },
-    "hits": [
+    "Teams": [
         {
             "id": "Barcelona",
             "categoryId": "Teams",
@@ -55,7 +55,9 @@
             "description": "See all Vardar details",
             "date": "April 28, 2021",
             "time": "12:00"
-        },
+        }
+    ],
+    "Cups": [
         {
             "id": "Copa-Del-Rey",
             "categoryId": "Cups",
@@ -73,7 +75,9 @@
             "description": "See all FA Cup details",
             "date": "April 28, 2021",
             "time": "12:00"
-        },
+        }
+    ],
+    "Leagues": [
         {
             "id": "LA-Liga",
             "categoryId": "Leagues",
@@ -93,155 +97,47 @@
             "time": "12:00"
         }
     ],
-    "results": [
+    "News": [
         {
-            "id": "Teams",
-            "total": 5,
-            "loaded": 2,
-            "items": [
-                {
-                    "id": "Barcelona",
-                    "categoryId": "Teams",
-                    "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
-                    "title": "Barcelona",
-                    "description": "See all Barcelona details",
-                    "date": "April 28, 2021",
-                    "time": "12:00"
-                },
-                {
-                    "id": "Valencia",
-                    "categoryId": "Teams",
-                    "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
-                    "title": "Valencia",
-                    "description": "See all Valencia details",
-                    "date": "April 28, 2021",
-                    "time": "12:00"
-                },
-                {
-                    "id": "Lazio",
-                    "categoryId": "Teams",
-                    "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
-                    "title": "Lazio",
-                    "description": "See all Lazio details",
-                    "date": "April 28, 2021",
-                    "time": "12:00"
-                },
-                {
-                    "id": "Liverpool",
-                    "categoryId": "Teams",
-                    "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
-                    "title": "Liverpool",
-                    "description": "See all Liverpool details",
-                    "date": "April 28, 2021",
-                    "time": "12:00"
-                },
-                {
-                    "id": "Vardar",
-                    "categoryId": "Teams",
-                    "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
-                    "title": "Vardar",
-                    "description": "See all Vardar details",
-                    "date": "April 28, 2021",
-                    "time": "12:00"
-                }
-            ]
+            "id": 1,
+            "connections": [
+                "Barcelona",
+                "LA-Liga"
+            ],
+            "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
+            "title": "Barcelona lost again against Granada",
+            "description": "It is pity but Barcelona lost again against the outsiders Granada. Lorem ipsum dolor amet sit, lorem ipsum dolor amet sit.",
+            "date": "April 28, 2021",
+            "time": "12:00",
+            "link": "https://google.com"
         },
         {
-            "id": "Cups",
-            "total": 3,
-            "loaded": 2,
-            "items": [
-                {
-                    "id": "Copa-Del-Rey",
-                    "categoryId": "Cups",
-                    "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
-                    "title": "Copa del Rey",
-                    "description": "See all Copa del Rey details",
-                    "date": "April 28, 2021",
-                    "time": "12:00"
-                },
-                {
-                    "id": "FA-Cup",
-                    "categoryId": "Cups",
-                    "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
-                    "title": "FA Cup",
-                    "description": "See all FA Cup details",
-                    "date": "April 28, 2021",
-                    "time": "12:00"
-                }
-            ]
+            "id": 2,
+            "connections": [
+                "Barcelona",
+                "Valencia",
+                "LA-Liga"
+            ],
+            "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
+            "title": "Valencia won against Barcelona",
+            "description": "This is just a fake news for a testing purposes. Lorem ipsum dolor amet sit, lorem ipsum dolor amet sit.",
+            "date": "May 28, 2021",
+            "time": "12:00",
+            "link": "https://google.com"
         },
         {
-            "id": "Leagues",
-            "total": 2,
-            "loaded": 2,
-            "items": [
-                {
-                    "id": "LA-Liga",
-                    "categoryId": "Leagues",
-                    "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
-                    "title": "La Liga",
-                    "description": "See all La Liga details",
-                    "date": "April 28, 2021",
-                    "time": "12:00"
-                },
-                {
-                    "id": "Premier-League",
-                    "categoryId": "Leagues",
-                    "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
-                    "title": "Premier League",
-                    "description": "See all Premier League details",
-                    "date": "April 28, 2021",
-                    "time": "12:00"
-                }
-            ]
+            "id": 3,
+            "connections": [
+                "Liverpool",
+                "Champions-League",
+                "Premier-League"
+            ],
+            "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
+            "title": "Liverpool plays against Milan today in the Champions League",
+            "description": "This is just a fake news for a testing purposes. Lorem ipsum dolor amet sit, lorem ipsum dolor amet sit.",
+            "date": "May 28, 2021",
+            "time": "12:00",
+            "link": "https://google.com"
         }
-    ],
-    "news": {
-        "total": 3,
-        "loaded": 2,
-        "items": [
-            {
-                "id": 1,
-                "connections": [
-                    "Barcelona",
-                    "LA-Liga"
-                ],
-                "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
-                "title": "Barcelona lost again against Granada",
-                "description": "It is pity but Barcelona lost again against the outsiders Granada. Lorem ipsum dolor amet sit, lorem ipsum dolor amet sit.",
-                "date": "April 28, 2021",
-                "time": "12:00",
-                "link": "https://google.com"
-            },
-            {
-                "id": 2,
-                "connections": [
-                    "Barcelona",
-                    "Valencia",
-                    "LA-Liga"
-                ],
-                "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
-                "title": "Valencia won against Barcelona",
-                "description": "This is just a fake news for a testing purposes. Lorem ipsum dolor amet sit, lorem ipsum dolor amet sit.",
-                "date": "May 28, 2021",
-                "time": "12:00",
-                "link": "https://google.com"
-            },
-            {
-                "id": 3,
-                "connections": [
-                    "Liverpool",
-                    "Champions-League",
-                    "Premier-League"
-                ],
-                "image": "https://www.shepherdcolor.com/wp-content/uploads/2018/10/image-placeholder-500x500.jpg",
-                "title": "Liverpool plays against Milan today in the Champions League",
-                "description": "This is just a fake news for a testing purposes. Lorem ipsum dolor amet sit, lorem ipsum dolor amet sit.",
-                "date": "May 28, 2021",
-                "time": "12:00",
-                "link": "https://google.com"
-            }
-        ]
-    }
+    ]
 }
