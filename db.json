@@ -1,5 +1,43 @@
 {
     "categories": ["Teams", "Cups", "Leagues"],
+    "hits": [
+        {
+            "id": "Barcelona",
+            "categoryId": "Teams"
+        },
+        {
+            "id": "Valencia",
+            "categoryId": "Teams"
+        },
+        {
+            "id": "Lazio",
+            "categoryId": "Teams"
+        },
+        {
+            "id": "Liverpool",
+            "categoryId": "Teams"
+        },
+        {
+            "id": "Vardar",
+            "categoryId": "Teams"
+        },
+        {
+            "id": "Copa-Del-Rey",
+            "categoryId": "Cups"
+        },
+        {
+            "id": "FA-Cup",
+            "categoryId": "Cups"
+        },
+        {
+            "id": "LA-Liga",
+            "categoryId": "Leagues"
+        },
+        {
+            "id": "Premier-League",
+            "categoryId": "Leagues"
+        }
+    ],
     "Teams": [
         {
             "id": "Barcelona",
