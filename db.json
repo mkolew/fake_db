@@ -1,7 +1,5 @@
 {
-    "results":  {
-        "test": {}
-    },
+    "categories": ["Teams", "Cups", "Leagues"],
     "Teams": [
         {
             "id": "Barcelona",
