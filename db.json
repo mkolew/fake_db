@@ -1,5 +1,7 @@
 {
-    "results":  {},
+    "results":  {
+        "test": {}
+    },
     "Teams": [
         {
             "id": "Barcelona",
